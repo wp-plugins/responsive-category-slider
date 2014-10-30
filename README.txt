@@ -30,7 +30,7 @@ What makes Responsive Category Slider stand-out from others is focusing on simpl
 
 * <a href="http://docs.themelead.com/responsive-category-slider/">Documentation</a>
 * <a href="http://themelead.com/responsive-category-slider-demo/">Live Demo</a>
-* <a href="http://support.themelead.com/forums/">Live Demo</a>
+* <a href="http://support.themelead.com/forums/">Support Forum</a>
 
 <i>*If you like the plugin, please vote and review for it!*</i>
 
