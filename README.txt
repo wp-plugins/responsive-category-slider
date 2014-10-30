@@ -1,7 +1,7 @@
 === Responsive Category Slider ===
 Contributors: wpthemelead
 Donate link: http://themelead.com
-Tags: content slider, responsive, woomerce plugin, multi-purpose, post gallery
+Tags: responsive content slider, woocommmerce integrated, multi-purpose, post gallery, responsive, gallery slider, product slider, ajax slider, taxonomy slider, category slider
 Requires at least: 3.8
 Tested up to: 4.0
 Stable tag: trunk
